@@ -157,52 +157,52 @@ img {
 <div class="auto">
   <h2>November 2017 Theory Of Knowledge Essays [A-grade]</h2>
   <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-1-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-1-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 1. Is the value of knowledge related to how easy it is to access? Develop your answer with reference to two areas of knowledge. Sample 1.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-1-sample-2.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-1-sample-2.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 1. Is the value of knowledge related to how easy it is to access? Develop your answer with reference to two areas of knowledge. Sample 2.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-2-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-2-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. “Every theory destabilizes as much as it solidifies our view of the world” (Nathan Jurgenson). Discuss. Sample 1.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-2-sample-2.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-2-sample-2.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. “Every theory destabilizes as much as it solidifies our view of the world” (Nathan Jurgenson). Discuss. Sample 2.</a></p><br>
 
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-3-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-3-sample-1.html" target="_blank"> 
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 3. “Over time,knowledge has become more accurate.” Discuss this statement with reference to two areas of knowledge. Sample 1.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-3-sample-2.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-3-sample-2.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 3. “Over time,knowledge has become more accurate.” Discuss this statement with reference to two areas of knowledge. Sample 2.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-4-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-4-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4. “Areas of knowledge have methods for testing and supporting knowledge claims. How can we know that these methods themselves are reliable?” Develop your answer with reference to two areas of knowledge. Sample 1.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-4-sample-2.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-4-sample-2.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4. “Areas of knowledge have methods for testing and supporting knowledge claims. How can we know that these methods themselves are reliable?” Develop your answer with reference to two areas of knowledge. Sample 2.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-5-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-5-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 5. “The simplest explanation is the best explanation.” Discuss this statement with reference to two areas of knowledge. Sample 1.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-5-sample-2.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-5-sample-2.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 5. “The simplest explanation is the best explanation.” Discuss this statement with reference to two areas of knowledge. Sample 2.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-6-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-6-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 6. “The production of knowledge seems to require creativity at every stage of the process.” Discuss this statement with reference to two areas of knowledge. Sample 1.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-6-sample-2.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2017-theory-of-knowledge-essay-question-6-sample-2.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 6. “The production of knowledge seems to require creativity at every stage of the process.” Discuss this statement with reference to two areas of knowledge. Sample 2.</a></p><br>
 
 
