@@ -157,43 +157,43 @@ img {
 <div class="auto">
   <h2>November 2016 Theory Of Knowledge Essays [A-grade]</h2>
   <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. “Is the availability of more data always helpful in the production of knowledge?” Explore this question with reference to two areas of knowledge. Sample 1.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-2.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-2.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. “Is the availability of more data always helpful in the production of knowledge?” Explore this question with reference to two areas of knowledge. Sample 2.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-3.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-3.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. “Is the availability of more data always helpful in the production of knowledge?” Explore this question with reference to two areas of knowledge. Sample 3.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-4.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-4.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. “Is the availability of more data always helpful in the production of knowledge?” Explore this question with reference to two areas of knowledge. Sample 4.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-5.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-2-sample-5.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. “Is the availability of more data always helpful in the production of knowledge?” Explore this question with reference to two areas of knowledge. Sample 5.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-3-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-3-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 3. “Conflicting knowledge claims always involve a difference in perspective.” Discuss with reference to two areas of knowledge.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-4-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-4-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4. “Error is as valuable as accuracy in the production of knowledge.” To what extent is this the case in two areas of knowledge?</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-5-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2016-theory-of-knowledge-essay-question-5-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 5. “Metaphor makes no contribution to knowledge but is essential for understanding.” Evaluate this statement with reference to two areas of knowledge. Sample 1.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2016-theory-of-knowledge-essay-question-5-sample-2.html">
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2016-theory-of-knowledge-essay-question-5-sample-2.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 5. “Metaphor makes no contribution to knowledge but is essential for understanding.” Evaluate this statement with reference to two areas of knowledge. Sample 2.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2016-theory-of-knowledge-essay-question-6-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2016-theory-of-knowledge-essay-question-6-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 6. ”Ways of knowing operate differently in personal and shared knowledge.” Assess this claim.</a></p><br>
 
 </div>
