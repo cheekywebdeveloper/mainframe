@@ -157,31 +157,31 @@ img {
 <div class="auto">
   <h2>November 2019 Theory Of Knowledge Essays [A-grade]</h2>
   <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-2-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-2-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. “Each human being is unique, unprecedented, unrepeatable” (Rene Dubos). Assuming this statement to be correct, what challenges does it create for knowledge production in two areas of knowledge?</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-3-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-3-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 3. Shared knowledge often changes over time. Does this fact undermine our confidence in current shared knowledge?</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-4-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-4-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4. To produce knowledge just observe and then write down what you observe. Discuss the effectiveness of this strategy in two areas of knowledge. Sample 1.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-4-sample-2.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-4-sample-2.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4. To produce knowledge just observe and then write down what you observe. Discuss the effectiveness of this strategy in two areas of knowledge. Sample 2.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-4-sample-3.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-4-sample-3.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4. To produce knowledge just observe and then write down what you observe. Discuss the effectiveness of this strategy in two areas of knowledge. Sample 3.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-4-sample-4.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-4-sample-4.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4. To produce knowledge just observe and then write down what you observe. Discuss the effectiveness of this strategy in two areas of knowledge. Sample 4.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-6-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-6-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 6. “The pursuit of knowledge is not merely about finding truths; it is about finding significant truths”</a></p><br>
 
 </div>
