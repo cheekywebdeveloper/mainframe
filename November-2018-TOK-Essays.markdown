@@ -153,11 +153,11 @@ img {
 <div style="padding-left:16px">
   <h2>November 2018 Theory Of Knowledge Essays [A-grade]</h2>
   <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2018-theory-of-knowledge-essay-question-1-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2018-theory-of-knowledge-essay-question-1-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 1. “Existing classification systems steer the acquisition of new knowledge.” Discuss this claim with reference to two areas of knowledge.</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2018-theory-of-knowledge-essay-question-6-sample-1.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2018-theory-of-knowledge-essay-question-6-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 6. “The importance of establishing incontrovertible facts is overestimated. Most knowledge deals in ambiguity.” Discuss this statement with reference to two areas of knowledge.</a></p><br>
 
 </div>
