@@ -157,15 +157,15 @@ img {
 <div class="auto">
   <h2>Theory Of Knowledge Presentations [A-grade]</h2>
   <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/theory-of-knowledge-presentation-to-what-extent-does-language-shape-thought-single-person.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/theory-of-knowledge-presentation-to-what-extent-does-language-shape-thought-single-person.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> To what extent does language shape thought? (Single person)</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/theory-of-knowledge-presentation-to-what-extent-does-intuition-influence-mathematical-judgments-two-people.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/theory-of-knowledge-presentation-to-what-extent-does-intuition-influence-mathematical-judgments-two-people.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> To what extent does intuition influence mathematical judgments? (Two people)</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/theory-of-knowledge-presentation-how-does-mass-media-affect-our-knowledge-of-people-groups-single-person.html">
+  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/theory-of-knowledge-presentation-how-does-mass-media-affect-our-knowledge-of-people-groups-single-person.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> How does mass media affect our knowledge of people groups? (Single person)</a></p><br>
 
 </div>
