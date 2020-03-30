@@ -1,0 +1,10 @@
+---
+title: 'MountEETOKIA: Best, high-scoring IB EEs, IAs, TOK'
+timezone: Asia/Singapore
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
