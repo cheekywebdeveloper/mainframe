@@ -153,6 +153,7 @@ body {
 <a style="display:block" href="https://ofgogoatan.com/afu.php?zoneid=3172956" target="_blank">
   <div style="width: 100px; height: 100px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
 </a>
+</div>
 
 <script>
 /* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
