@@ -150,8 +150,9 @@ body {
 
 <div style="width: 640px; height: 480px; position: absolute; left: 600px; right: 100px; border: 0;">
 <p><iframe src="https://drive.google.com/file/d/1IuXY65E-Q0yAHJvO9QIlPjNjKIzM0WAw/preview" width="600" height="750" frameborder="0" scrolling="no" seamless=""></iframe></p>
-<div style="width: 100px; height: 100px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
-</div>
+<a style="display:block" href="https://ofgogoatan.com/afu.php?zoneid=3172956" target="_blank">
+  <div style="width: 100px; height: 100px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
+</a>
 
 <script>
 /* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
