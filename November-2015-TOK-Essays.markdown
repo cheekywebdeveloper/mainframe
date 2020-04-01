@@ -156,7 +156,7 @@ img {
 </div>
 
 <div class="auto">
-  <h2>November 2015 Theory Of Knowledge Essays [A-grade]</h2>
+  <h2>November 2015 Theory Of Knowledge Essays [10/10 marks]</h2> 
   <p>
   <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2015-theory-of-knowledge-essay-question-1-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 1. “The main reason knowledge is produced is to solve problems.” To what extent do you agree with this statement? Sample 1.</a></p><br>
