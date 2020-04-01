@@ -105,6 +105,7 @@ body {
       <a href="Economics-extended-essays.html">Economics EEs</a>
       <a href="Chemistry-extended-essays.html">Chemistry EEs</a>
       <a href="Business-Management-extended-essays.html">Business Management EEs</a>
+      <a href="english-extended-essays.html">English EEs</a>
       <a href="EERPPF-Good-Reflections.html">EERPPF Good Reflections</a>
     </div>
   </div> 
