@@ -193,11 +193,11 @@ img {
 
   <p>
   <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2008-theory-of-knowledge-essay-question-10-sample-1.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2008) 1. "There can be no knowledge without emotion... until we have felt the force of the knowledge, it is not ours" (Adapted from Arnold Bennett). Discuss this vision of the relationship between knowledge and emotion. Sample 1.</a></p><br>
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2008) 10. "There can be no knowledge without emotion... until we have felt the force of the knowledge, it is not ours" (Adapted from Arnold Bennett). Discuss this vision of the relationship between knowledge and emotion. Sample 1.</a></p><br>
 
   <p>
   <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2008-theory-of-knowledge-essay-question-10-sample-2.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2008) 1. "There can be no knowledge without emotion... until we have felt the force of the knowledge, it is not ours" (Adapted from Arnold Bennett). Discuss this vision of the relationship between knowledge and emotion. Sample 2.</a></p><br>
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2008) 10. "There can be no knowledge without emotion... until we have felt the force of the knowledge, it is not ours" (Adapted from Arnold Bennett). Discuss this vision of the relationship between knowledge and emotion. Sample 2.</a></p><br>
 
 </div>
 
