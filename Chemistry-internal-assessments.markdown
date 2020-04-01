@@ -131,6 +131,7 @@ img {
       <a href="HLMathematics-internal-assessments.html">HL Math IAs</a>
       <a href="Physics-internal-assessments.html">Physics IAs</a>
       <a href="History-internal-assessments.html">History IAs</a>
+      <a href="business-management-internal-assessments.html">Business Management IAs</a>
       <a href="SLLangLit-internal-assessments.html">SL Language & Literature IAs</a>
       <a href="SLChineseB-internal-assessments.html">SL Chinese B IAs</a>
     </div>
@@ -175,6 +176,10 @@ img {
 <p>
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/chemistry-internal-assessment-how-does-the-concentration-of-hno3-added-to-chlorophyll-affect-its-chelation-abilities-of-cobalt-ions-in-the-medical-treatment-of-heavy-metal-poisoning.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> How does the concentration of HNO3 (0.250, 0.375, 0.500, 1.00, 2.000 mol dm-3) added to chlorophyll extracted from spinach leaves affect its chelation abilities of Co2+ ions in the medical treatment of heavy metal poisoning, as measured with UV Visible Spectrophotometry?</a></p><br>
+
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/chemistry-internal-assessments-how-is-the-removal-of-copper-ii-ions-from-water-using-lemon-peels-through-adsorption-affected-by-initial-ph-as-measured-using-uv-vis-spectrophotometry.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> How is the removal of copper (II) ions from water using lemon peels through adsorption affected by initial pH (1,2,3,4,5) as measured using UV-Vis spectrophotometry</a></p><br>
 
 </div>
 
