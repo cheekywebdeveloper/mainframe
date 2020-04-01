@@ -100,6 +100,10 @@ img {
    float:left;
 }
 
+.auto {
+   height: 1500px;
+}
+
 </style>
 </head>
 <body>
@@ -128,6 +132,8 @@ img {
       <a href="HLMathematics-internal-assessments.html">HL Math IAs</a>
       <a href="Physics-internal-assessments.html">Physics IAs</a>
       <a href="History-internal-assessments.html">History IAs</a>
+      <a href="business-management-internal-assessments.html">Business Management IAs</a>
+      <a href="hl-literature-internal-assessments.html">HL Literature IAs</a>
       <a href="SLLangLit-internal-assessments.html">SL Language & Literature IAs</a>
       <a href="SLChineseB-internal-assessments.html">SL Chinese B IAs</a>
     </div>
@@ -151,11 +157,47 @@ img {
   <a href="Questions.html"><h4>Questions</h4></a>
 </div>
 
-<div style="padding-left:16px">
-  <h2>November 2007/2008 Theory Of Knowledge Essays [10/10 marks]</h2> 
+<div class="auto">
+  <h2>November 2007/2008 Theory Of Knowledge Essays [10/10 marks]</h2>
   <p>
-  <a style="text-decoration:none" href="http://Business-Management-extended-essays/amazon-growth-strategies.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (29/34) To What Extent Was Amazon.com, Inc.’s Growth Strategies To Constantly Widen Its Product Portfolio Effective At Growing The Business To Become The World’s Largest Internet Company?</a></p><br>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2007-theory-of-knowledge-essay-question-4-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2007) 4. Does language play roles of equal importance in different areas of knowledge? Sample 1.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2007-theory-of-knowledge-essay-question-4-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2007) 4. Does language play roles of equal importance in different areas of knowledge? Sample 2.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2007-theory-of-knowledge-essay-question-7-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2007) 7. Our senses tell us that a table, for example, is a solid object; science tells us that the table is mostly empty space. Thus, the two sources of knowledge generate conflicting results. Can we reconcile such conflicts? Sample 1.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2007-theory-of-knowledge-essay-question-7-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2007) 7. Our senses tell us that a table, for example, is a solid object; science tells us that the table is mostly empty space. Thus, the two sources of knowledge generate conflicting results. Can we reconcile such conflicts? Sample 2.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2007-theory-of-knowledge-essay-question-8-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2007) 8. Are some ways of knowing more likely than others to lead to truth? Sample 1.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2007-theory-of-knowledge-essay-question-8-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2007) 8. Are some ways of knowing more likely than others to lead to truth? Sample 2.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2008-theory-of-knowledge-essay-question-3-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2008) 3. Evaluate the strengths and weaknesses of reason as a way of knowing. Sample 1.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2008-theory-of-knowledge-essay-question-3-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2008) 3. Evaluate the strengths and weaknesses of reason as a way of knowing. Sample 2.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2008-theory-of-knowledge-essay-question-10-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2008) 1. "There can be no knowledge without emotion... until we have felt the force of the knowledge, it is not ours" (Adapted from Arnold Bennett). Discuss this vision of the relationship between knowledge and emotion. Sample 1.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2008-theory-of-knowledge-essay-question-10-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (November 2008) 1. "There can be no knowledge without emotion... until we have felt the force of the knowledge, it is not ours" (Adapted from Arnold Bennett). Discuss this vision of the relationship between knowledge and emotion. Sample 2.</a></p><br>
 
 </div>
 
@@ -166,4 +208,3 @@ img {
 
 </body>
 </html>
-
