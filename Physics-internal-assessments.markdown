@@ -132,6 +132,8 @@ img {
       <a href="HLMathematics-internal-assessments.html">HL Math IAs</a>
       <a href="Physics-internal-assessments.html">Physics IAs</a>
       <a href="History-internal-assessments.html">History IAs</a>
+      <a href="business-management-internal-assessments.html">Business Management IAs</a>
+      <a href="hl-literature-internal-assessments.html">HL Literature IAs</a>
       <a href="SLLangLit-internal-assessments.html">SL Language & Literature IAs</a>
       <a href="SLChineseB-internal-assessments.html">SL Chinese B IAs</a>
     </div>
@@ -168,6 +170,10 @@ img {
 <p>
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/physics-internal-assessments-what-is-the-effect-of-surface-area-on-the-coefficient-of-static-friction.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> What is the effect of surface area on the coefficient of static friction?</a></p><br>
+
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/physics-internal-assessment-determining-the-resistivity-of-a-nichrome-wire-by-observing-the-effect-of-the-length-of-wire-on-the-resistance-of-wire.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> Determining the resistivity of a Nichrome wire by observing the effect of the length of wire on the resistance of wire</a></p><br>
 
 </div>
 
