@@ -186,6 +186,22 @@ img {
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA1 Microeconomics: Chinese environmental tax policy in January 2018, correcting the market failure of manufactured goods causing pollution</a></p><br>
 
 <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/economics-ia1-microeconomics-carbon-tax-of-5-dollars-per-tonne-of-greenhouse-gas-emissions-to-be-levied-in-singapore.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA1 Microeconomics: Carbon tax of $5 per tonne of greenhouse gas emissions to be levied in Singapore</a></p><br>
+
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/economics-ia1-microeconomics-underconsumption-of-medicine-in-india-national-pharmaceutical-pricing-authority-cuts-prices-of-33-essential-medicines.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA1 Microeconomics: Underconsumption of medicine in India causes National Pharmaceutical Pricing Authority to cut prices of 33 essential medicines</a></p><br>
+
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/economics-ia2-macroeconomics-bank-of-japan-expansionary-fiscal-policy.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA2 Macroeconomics: Bank of Japan's expansionary fiscal policy</a></p><br>
+
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/economics-ia2-macroeconomics-china-expansionary-fiscal-policy-of-163-dot-2-billion-into-infrastructure-to-stave-off-economic-slowdown-due-to-trade-war.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA2 Macroeconomics: China's expansionary fiscal policy of US$163.2 billion into infrastructure to stave off economic slowdown due to the trade war</a></p><br>
+
+<p>
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/economics-ia2-macroeconomics-increased-interest-rate-and-austerity-measures-to-control-rising-cost-push-inflation-in-argentina-in-2018.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA2 Macroeconomics: Increased interest rate and austerity measures to control rising cost-push inflation in Argentina in 2018</a></p><br>
 
@@ -210,6 +226,14 @@ img {
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA2 Macroeconomics: US expansionary fiscal policy and reduce taxes</a></p><br>
 
 <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/economics-ia3-international-trade-free-trade-agreement-between-us-and-japan-aims-to-gradually-eliminate-the-tariff-between-them-lowering-beef-and-pork-export-costs-from-us-into-japan.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: Free Trade Agreement between US and Japan aims to gradually eliminate the tariff between them thus lowering beef and pork export costs from US into Japan</a></p><br>
+
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/economics-ia3-international-trade-us-tariffs-increase-the-price-of-imported-steel.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: US Tariffs increase the price of imported steel</a></p><br>
+
+<p>
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/economics-ia3-international-trade-egypt-imposition-of-15-percent-anti-dumping-tariffs-on-imported-steel-billets.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: Egypt’s imposition of 15% anti-dumping tariffs on imported steel billets</a></p><br>
 
@@ -228,31 +252,6 @@ img {
 <p>
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/economics-ia3-international-trade-trump-tariffs-on-aluminium-and-steel-causes-prices-of-imported-cars-to-rise.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: Trump's tariffs on aluminium and steel causes prices of imported cars to rise</a></p><br>
-
-<p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/economics-ia3-international-trade-trump-tariffs-on-aluminium-and-steel-causes-prices-of-imported-cars-to-rise.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: Trump's tariffs on aluminium and steel causes prices of imported cars to rise</a></p><br>
-
-<p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/economics-ia3-international-trade-trump-tariffs-on-aluminium-and-steel-causes-prices-of-imported-cars-to-rise.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: Trump's tariffs on aluminium and steel causes prices of imported cars to rise</a></p><br>
-
-<p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/economics-ia3-international-trade-trump-tariffs-on-aluminium-and-steel-causes-prices-of-imported-cars-to-rise.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: Trump's tariffs on aluminium and steel causes prices of imported cars to rise</a></p><br>
-
-<p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/economics-ia3-international-trade-trump-tariffs-on-aluminium-and-steel-causes-prices-of-imported-cars-to-rise.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: Trump's tariffs on aluminium and steel causes prices of imported cars to rise</a></p><br>
-
-<p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/economics-ia3-international-trade-trump-tariffs-on-aluminium-and-steel-causes-prices-of-imported-cars-to-rise.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: Trump's tariffs on aluminium and steel causes prices of imported cars to rise</a></p><br>
-
-<p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/economics-ia3-international-trade-trump-tariffs-on-aluminium-and-steel-causes-prices-of-imported-cars-to-rise.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> IA3 International Trade: Trump's tariffs on aluminium and steel causes prices of imported cars to rise</a></p><br>
-
 
 </div>
 
