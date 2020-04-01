@@ -156,7 +156,7 @@ img {
 </div>
 
 <div class="auto">
-  <h2>November 2019 Theory Of Knowledge Essays [A-grade]</h2>
+  <h2>November 2019 Theory Of Knowledge Essays [10/10 marks]</h2>
   <p>
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2019-theory-of-knowledge-essay-question-2-sample-1.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. “Each human being is unique, unprecedented, unrepeatable” (Rene Dubos). Assuming this statement to be correct, what challenges does it create for knowledge production in two areas of knowledge?</a></p><br>
