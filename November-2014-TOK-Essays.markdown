@@ -221,7 +221,7 @@ img {
 
 <p>
   <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-6-sample-2.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> "We may agree about general standards in the arts but disagree as to whether a particular work has artistic merit. In ethics the situation is reversed: we may disagree about ethical theories but we all know an unethical action when we see one." Discuss. Sample 2.</a></p><br> 
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 6. "We may agree about general standards in the arts but disagree as to whether a particular work has artistic merit. In ethics the situation is reversed: we may disagree about ethical theories but we all know an unethical action when we see one." Discuss. Sample 2.</a></p><br> 
 
 </div>
 
