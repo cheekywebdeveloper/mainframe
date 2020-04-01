@@ -149,9 +149,7 @@ body {
 
 <div style="width: 640px; height: 480px; position: absolute; left: 600px; right: 100px; border: 0;">
 <p><iframe src="https://drive.google.com/file/d/1-RtrqWI0GX01mEApt4OcOsnbi_jigA_W/preview" width="600" height="750" frameborder="0" scrolling="no" seamless=""></iframe></p>
-<a style="display:block" href="https://ofgogoatan.com/afu.php?zoneid=3172956" target="_blank">
   <div style="width: 100px; height: 100px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
-</a>
 
 </div>
 
