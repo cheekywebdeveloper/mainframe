@@ -152,7 +152,7 @@ img {
 </div>
 
 <div style="padding-left:16px">
-  <h2>November 2014 Theory Of Knowledge Essays [A-grade]</h2>
+  <h2>November 2014 Theory Of Knowledge Essays [10/10 marks]</h2> 
   <p>
   <a style="text-decoration:none" href="http://Business-Management-extended-essays/amazon-growth-strategies.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (29/34) To What Extent Was Amazon.com, Inc.’s Growth Strategies To Constantly Widen Its Product Portfolio Effective At Growing The Business To Become The World’s Largest Internet Company?</a></p><br>
