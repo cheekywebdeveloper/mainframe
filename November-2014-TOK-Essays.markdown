@@ -100,6 +100,10 @@ img {
    float:left;
 }
 
+.auto {
+   height: 1500px;
+}
+
 </style>
 </head>
 <body>
@@ -128,6 +132,8 @@ img {
       <a href="HLMathematics-internal-assessments.html">HL Math IAs</a>
       <a href="Physics-internal-assessments.html">Physics IAs</a>
       <a href="History-internal-assessments.html">History IAs</a>
+      <a href="business-management-internal-assessments.html">Business Management IAs</a>
+      <a href="hl-literature-internal-assessments.html">HL Literature IAs</a>
       <a href="SLLangLit-internal-assessments.html">SL Language & Literature IAs</a>
       <a href="SLChineseB-internal-assessments.html">SL Chinese B IAs</a>
     </div>
@@ -151,11 +157,71 @@ img {
   <a href="Questions.html"><h4>Questions</h4></a>
 </div>
 
-<div style="padding-left:16px">
-  <h2>November 2014 Theory Of Knowledge Essays [10/10 marks]</h2> 
+<div class="auto">
+  <h2>November 2014 Theory Of Knowledge Essays [10/10 marks]</h2>
   <p>
-  <a style="text-decoration:none" href="http://Business-Management-extended-essays/amazon-growth-strategies.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (29/34) To What Extent Was Amazon.com, Inc.’s Growth Strategies To Constantly Widen Its Product Portfolio Effective At Growing The Business To Become The World’s Largest Internet Company?</a></p><br>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-1-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 1. "Some areas of knowledge seek to describe the world, whereas others seek to transform it" Explore this claim with reference to two areas of knowledge. Sample 1.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-1-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 1. "Some areas of knowledge seek to describe the world, whereas others seek to transform it" Explore this claim with reference to two areas of knowledge. Sample 2.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-1-sample-3.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 1. "Some areas of knowledge seek to describe the world, whereas others seek to transform it" Explore this claim with reference to two areas of knowledge. Sample 3.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-2-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. "Knowledge takes the form of a combination of stories and facts." How accurate is this claim in two areas of knowledge? Sample 1.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-2-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. "Knowledge takes the form of a combination of stories and facts." How accurate is this claim in two areas of knowledge? Sample 2.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-2-sample-3.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 2. "Knowledge takes the form of a combination of stories and facts." How accurate is this claim in two areas of knowledge? Sample 3.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-4-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4."To gain an understanding of the world we need to make use of stereotypes." With reference to two areas of knowledge, to what extent do you agree with this statement?. Sample 1.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-4-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4."To gain an understanding of the world we need to make use of stereotypes." With reference to two areas of knowledge, to what extent do you agree with this statement?. Sample 2.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-4-sample-3.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4."To gain an understanding of the world we need to make use of stereotypes." With reference to two areas of knowledge, to what extent do you agree with this statement?. Sample 3.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-4-sample-4.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 4."To gain an understanding of the world we need to make use of stereotypes." With reference to two areas of knowledge, to what extent do you agree with this statement?. Sample 4.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-5-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 5. "The task of history is the discovering of the constant and universal principles of human nature." To what extent are history and one other area of knowledge successful in this task? Sample 1.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-5-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 5. "The task of history is the discovering of the constant and universal principles of human nature." To what extent are history and one other area of knowledge successful in this task? Sample 2.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-5-sample-3.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 5. "The task of history is the discovering of the constant and universal principles of human nature." To what extent are history and one other area of knowledge successful in this task? Sample 3.</a></p><br>
+
+  <p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-5-sample-4.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 5. "The task of history is the discovering of the constant and universal principles of human nature." To what extent are history and one other area of knowledge successful in this task? Sample 4.</a></p><br>
+
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-6-sample-1.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> 6. "We may agree about general standards in the arts but disagree as to whether a particular work has artistic merit. In ethics the situation is reversed: we may disagree about ethical theories but we all know an unethical action when we see one." Discuss. Sample 1.</a></p><br>
+
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/november-2014-theory-of-knowledge-essay-question-6-sample-2.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> "We may agree about general standards in the arts but disagree as to whether a particular work has artistic merit. In ethics the situation is reversed: we may disagree about ethical theories but we all know an unethical action when we see one." Discuss. Sample 2.</a></p><br> 
 
 </div>
 
@@ -166,4 +232,3 @@ img {
 
 </body>
 </html>
-
