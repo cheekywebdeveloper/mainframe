@@ -157,12 +157,8 @@ img {
 <div class="auto">
   <h2>English Extended Essays [A-grade]</h2>
   <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/biology-internal-assessments-investigating-the-effect-of-varying-light-intensities-on-the-potassium-ion-remediation-properties-of-lemna-minor-duckweed.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> Investigating the effect of varying light intensities on the potassium ion remediation properties of Lemna minor (duckweed).</a></p><br>
-
-<p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/biology-internal-assessments-to-investigate-how-varying-levels-of-ph-using-various-buffer-solutions-affect-the-stability-and-permeability-of-the-cell-membrane.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> To investigate how varying levels of pH using various buffer solutions affect the stability and permeability of the cell membrane.</a></p><br>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/english-extended-essay-adichie-use-of-the-bildungsroman-in-purple-hibiscus-to-allegorize-nigeria-struggle-to-create-national-identity.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> Adichie's use of the Bildungsroman in Purple Hibiscus to allegorize Nigeria's struggle to create national identity.</a></p><br>
 
 </div>
 
