@@ -96,7 +96,7 @@ ul li {
 }
 
 .intro {
-    height: 500px;
+    height: 300px;
 }
 
 </style>
