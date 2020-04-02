@@ -101,7 +101,7 @@ img {
 }
 
 .auto {
-   height: 400px;
+   height: 500px;
 }
 
 </style>
@@ -183,10 +183,6 @@ img {
 <p>
   <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/hl-mathematics-internal-assessments-mathematics-behind-tuning-and-modelling-of-chords.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> Mathematics behind Tuning and Modelling of Chords</a></p><br>
-
-<p>
-  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/sl-mathematics-internal-assessment-modelling-the-spread-of-tuberculosis-in-india.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> SL Math IA: Modelling the spread of Tuberculousis in India</a></p><br>
 
 </div>
 
