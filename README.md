@@ -155,7 +155,7 @@ body {
   <li><strong>High-scoring TOK Essays (A-grade only)</strong></li>
   <li><strong>High-scoring TOK Presentations (A-grade only)</strong></li>
 </ol> 
-<p>This blog will be <strong>regularly updated</strong> to include more A-grade Extended Essays and IAs from <strong>different subjects</strong>, as well as TOK Essays and Presentations: Remember to bookmark this blog!<br>Questions? Email us at MountEETOKIA@gmail.com.</p>  
+<p>This blog will be <strong>regularly updated</strong> to include more A-grade EEs and IAs from <strong>different subjects</strong>, and TOK sample. Tip: Bookmark this site!</p>  
   
 </div>
 
