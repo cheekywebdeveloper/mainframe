@@ -117,6 +117,7 @@ img {
       <a href="Economics-extended-essays.html">Economics EEs</a>
       <a href="Chemistry-extended-essays.html">Chemistry EEs</a>
       <a href="Business-Management-extended-essays.html">Business Management EEs</a>
+      <a href="english-extended-essays.html">English EEs</a>
       <a href="EERPPF-Good-Reflections.html">EERPPF Good Reflections</a>
     </div>
   </div> 
@@ -129,8 +130,11 @@ img {
       <a href="Chemistry-internal-assessments.html">Chemistry IAs</a>
       <a href="Biology-internal-assessments.html">Biology IAs</a>
       <a href="HLMathematics-internal-assessments.html">HL Math IAs</a>
+      <a href="slmathematics-internal-assessments.html">SL Math IAs</a>
       <a href="Physics-internal-assessments.html">Physics IAs</a>
       <a href="History-internal-assessments.html">History IAs</a>
+      <a href="business-management-internal-assessments.html">Business Management IAs</a>
+      <a href="hl-literature-internal-assessments.html">HL Literature IAs</a>
       <a href="SLLangLit-internal-assessments.html">SL Language & Literature IAs</a>
       <a href="SLChineseB-internal-assessments.html">SL Chinese B IAs</a>
     </div>
