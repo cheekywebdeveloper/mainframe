@@ -164,12 +164,6 @@ img {
   <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/sl-business-management-internal-assessment-how-would-starbucks-decision-to-ban-plastic-straws-be-beneficial-to-the-company-when-considering-its-impact-on-various-stakeholders.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> How would Starbucks' decision to ban plastic straws be beneficial to the company, when considering its impact on various stakeholders?</a></p><br>
 
-
-<p>
-  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/biology-internal-assessment-to-investigate-the-effect-of-pomegranate-extract-on-the-rate-of-mitosis-of-japanese-rose-portuluca-grandiflora-and-by-extension-investigate-the-potential-of-pomegranate-as-an-anti-carcinogenic-agent.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> To investigate the effect of Pomegranate Punica granatum extract on the rate of mitosis of Japanese Rose
-Portuluca grandiflora, and by extension investigate the potential of pomegranate as an anti-carcinogenic agent.</a></p><br>
-
 </div>
 
 <div class="footer">
