@@ -1,5 +1,5 @@
 ---
-title: business management internal assessments
+title: Business management internal assessments
 date: 2020-04-01 22:51:00 +08:00
 ---
 
