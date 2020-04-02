@@ -158,7 +158,7 @@ ul li {
   <li><strong>High-scoring Internal Assessments (a range of subjects not limited to my subject combination) (A-grade only)</strong></li>
   <li><strong>High-scoring Theory Of Knowledge Essays & Presentations (A-grade only)</strong></li>
 </ol> 
-<p>This site will be <strong><font color="D40000">regularly updated</font></strong> to include more A-grade EEs and IAs from <strong><font color="D40000">different subjects</font></strong>, and TOK samples. <strong><font color="D40000">Tip: Bookmark this site!</font></strong>Sample count as of 1 April 2020: <strong><font color="00EB10">147</font></strong> and more coming soon!</p>  
+<p>This site will be <strong><font color="D40000">regularly updated</font></strong> to include more A-grade EEs and IAs from <strong><font color="D40000">different subjects</font></strong>, and TOK samples.<br> Sample count as of 1 April 2020: <strong><font color="00EB10">147</font></strong> and more coming soon...</p><strong><font color="D40000"> Tip: Bookmark this site!</font></strong>
   
 </div>
 
@@ -167,7 +167,7 @@ ul li {
   <ul style="line-height:1.4;">
     <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
     <li>Score of <strong>43 points, maximum 3 bonus points:</strong> <strong><font color="D40000"> A in Extended Essay, and A in Theory Of Knowledge.</font></strong> <a href="https://google.com/">[Click here for my IB certificate]</a></li><br>
-  <li>Subject Combination: HL Chemistry (7), HL Economics (7), HL Mathematics (6)<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
+  <li>HL Chemistry (7), HL Economics (7), HL Mathematics (6) SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
 </ul>  
 </div>
 
