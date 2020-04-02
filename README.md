@@ -91,6 +91,9 @@ body {
   background: rgba(0,0,0,.99);
 }
 
+ul {
+   line-height: 100%
+}
 
 </style>
 </head>
@@ -161,7 +164,7 @@ body {
 
 <ol>
   <li><strong>High-scoring Extended Essays (A-grade only)</strong></li>
-  <li><strong>High-scoring IAs (from a range of subjects not limited to my subject combination) (A-grade only)</strong></li>
+  <li><strong>High-scoring Internal Assessments (a range of subjects not limited to my subject combination) (A-grade only)</strong></li>
   <li><strong>High-scoring TOK Essays (A-grade only)</strong></li>
   <li><strong>High-scoring TOK Presentations (A-grade only)</strong></li>
 </ol> 
