@@ -154,7 +154,9 @@ body {
   <h2>Disclaimer</h2>
 <p>"<strong>Plagiarism</strong>: this is defined as the representation, <strong>intentionally or unwittingly</strong>, of the ideas, words or work of another person without proper, clear and explicit acknowledgment." (IBO Website)<br><br>
 
-The academic samples are for your reference. Take note of the format, style of writing, structure, and how to hit the high bands on the rubrics.<br><br>
+All credit goes to the authors of these academic samples.
+
+These academic samples are strictly for your <strong>reference</strong>. Take note of the format, style of writing, structure, and how to hit the high bands on the rubrics.<br><br>
 
 <strong>Do Not Plagiarise.</strong>
 </p>
