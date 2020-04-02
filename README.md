@@ -146,21 +146,20 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h3>What's this website for?</h3>
+  <h2>What's this website for?</h2>
   <p><strong>Real</strong> samples for your reference of:</p>
 
 <ol>
   <li><strong>High-scoring Extended Essays (A-grade only)</strong></li>
   <li><strong>High-scoring Internal Assessments (a range of subjects not limited to my subject combination) (A-grade only)</strong></li>
-  <li><strong>High-scoring TOK Essays (A-grade only)</strong></li>
-  <li><strong>High-scoring TOK Presentations (A-grade only)</strong></li>
+  <li><strong>High-scoring Theory Of Knowledge Essays & Presentations (A-grade only)</strong></li>
 </ol> 
 <p>This blog will be <strong>regularly updated</strong> to include more A-grade EEs and IAs from <strong>different subjects</strong>, and TOK sample. Tip: Bookmark this site!</p>  
   
 </div>
 
 <div style="padding-left:16px">
-  <h3>Introduction (myself)</h3>
+  <h2>Introduction (myself)</h2>
   <ul>
     <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
     <li>Score of <strong>43 points, maximum 3 bonus points: A in Extended Essay, and A in Theory Of Knowledge.</strong> [Click here for my IB certificate]</li><br>
