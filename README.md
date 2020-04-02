@@ -146,15 +146,6 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Introduction (myself)</h2>
-  <ul>
-    <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
-    <li>Score of <strong>43 points, maximum 3 bonus points: A in Extended Essay, and A in Theory Of Knowledge.</strong> [Click here for my IB certificate]</li><br>
-  <li>Subject Combination: HL Chemistry (7), HL Economics (7), HL Mathematics (6)<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
-</ul>  
-</div>
-
-<div style="padding-left:16px">
   <h2>What's this website for?</h2>
   <p><strong>Real</strong> samples for your reference of:</p>
 
@@ -166,6 +157,15 @@ body {
 </ol> 
 <p>This blog will be <strong>regularly updated</strong> to include more A-grade Extended Essays and IAs from <strong>different subjects</strong>, as well as TOK Essays and Presentations: Remember to bookmark this blog!<br>Questions? Email us at MountEETOKIA@gmail.com.</p>  
   
+</div>
+
+<div style="padding-left:16px">
+  <h2>Introduction (myself)</h2>
+  <ul>
+    <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
+    <li>Score of <strong>43 points, maximum 3 bonus points: A in Extended Essay, and A in Theory Of Knowledge.</strong> [Click here for my IB certificate]</li><br>
+  <li>Subject Combination: HL Chemistry (7), HL Economics (7), HL Mathematics (6)<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;SLw Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
+</ul>  
 </div>
 
 <div class="footer">
