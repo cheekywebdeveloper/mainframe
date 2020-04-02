@@ -152,7 +152,7 @@ body {
 
 <div style="padding-left:16px">
   <h2>Questions</h2>
-<p>If you have any questions, email us at <strong>MountEETOKIA@gmail.com</strong>. We will reply promptly. 
+<p>If you have any questions or requests, email us at <strong>MountEETOKIA@gmail.com</strong>. We will reply promptly. 
 </p>
 </div>
 
