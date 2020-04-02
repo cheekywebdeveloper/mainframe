@@ -171,7 +171,7 @@ ul li {
   <ul style="line-height:1.2;">
     <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
     <li>Score of <strong>43 points, maximum 3 bonus points:</strong> <strong><font color="D40000"> A in Extended Essay, and A in Theory Of Knowledge.</font></strong></li><br>
-  <li>HL Chemistry (7), HL Economics (7), HL Mathematics (6) SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
+  <li>HL Chemistry (7), HL Economics (7), HL Mathematics (6), SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
 </ul>  
 </div>
 
