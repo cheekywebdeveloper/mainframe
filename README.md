@@ -166,7 +166,7 @@ ul li {
   <h2>Introduction (myself)</h2>
   <ul style="line-height:1.4;">
     <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
-    <li>Score of <strong>43 points, maximum 3 bonus points:</strong><strong><font color="D40000">A in Extended Essay, and A in Theory Of Knowledge.</font></strong> [Click here for my IB certificate]</li><br>
+    <li>Score of <strong>43 points, maximum 3 bonus points:</strong> <strong><font color="D40000">A in Extended Essay, and A in Theory Of Knowledge.</font></strong> <a href="https://google.com/">[Click here for my IB certificate]</a></li><br>
   <li>Subject Combination: HL Chemistry (7), HL Economics (7), HL Mathematics (6)<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
 </ul>  
 </div>
