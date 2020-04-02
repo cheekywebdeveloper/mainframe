@@ -146,7 +146,7 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>What's this website for?</h2>
+  <h3>What's this website for?</h3>
   <p><strong>Real</strong> samples for your reference of:</p>
 
 <ol>
@@ -160,7 +160,7 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Introduction (myself)</h2>
+  <h3>Introduction (myself)</h3>
   <ul>
     <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
     <li>Score of <strong>43 points, maximum 3 bonus points: A in Extended Essay, and A in Theory Of Knowledge.</strong> [Click here for my IB certificate]</li><br>
