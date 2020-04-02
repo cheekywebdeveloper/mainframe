@@ -158,7 +158,7 @@ ul li {
   <li><strong>High-scoring Internal Assessments (a range of subjects not limited to my subject combination) (A-grade only)</strong></li>
   <li><strong>High-scoring Theory Of Knowledge Essays & Presentations (A-grade only)</strong></li>
 </ol> 
-<p>This site will be <strong><font color="D40000">regularly updated</font></strong> to include more A-grade EEs and IAs from <strong><font color="D40000">different subjects</font></strong>, and TOK samples.<br> Sample count as of 1 April 2020: <strong><font color="00EB10">147</font></strong> and more coming soon...</p><strong><font color="D40000"> Tip: Bookmark this site!</font></strong>
+<p>This site will be <strong><font color="D40000">regularly updated</font></strong> to include more A-grade EEs and IAs from <strong><font color="D40000">different subjects</font></strong>, and TOK samples.<br> Sample count as of 1 April 2020: <strong><font color="00B90C"><font size="10">147</font></font></strong> and more coming soon...<strong><font color="D40000"> Tip: Bookmark this site!</font></strong></p>
   
 </div>
 
