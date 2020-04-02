@@ -122,8 +122,11 @@ body {
       <a href="Chemistry-internal-assessments.html">Chemistry IAs</a>
       <a href="Biology-internal-assessments.html">Biology IAs</a>
       <a href="HLMathematics-internal-assessments.html">HL Math IAs</a>
+      <a href="slmathematics-internal-assessments.html">SL Math IAs</a>
       <a href="Physics-internal-assessments.html">Physics IAs</a>
       <a href="History-internal-assessments.html">History IAs</a>
+      <a href="business-management-internal-assessments.html">Business Management IAs</a>
+      <a href="hl-literature-internal-assessments.html">HL Literature IAs</a>
       <a href="SLLangLit-internal-assessments.html">SL Language & Literature IAs</a>
       <a href="SLChineseB-internal-assessments.html">SL Chinese B IAs</a>
     </div>
