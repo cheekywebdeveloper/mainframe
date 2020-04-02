@@ -158,7 +158,7 @@ ul li {
   <li><strong>High-scoring Internal Assessments (a range of subjects not limited to my subject combination) (A-grade only)</strong></li>
   <li><strong>High-scoring Theory Of Knowledge Essays & Presentations (A-grade only)</strong></li>
 </ol> 
-<p>This blog will be <strong>regularly updated</strong> to include more A-grade EEs and IAs from <strong>different subjects</strong>, and TOK samples. Tip: Bookmark this site!</p>  
+<p>This site will be <strong><font color="D40000">regularly updated</font></strong> to include more A-grade EEs and IAs from <strong><font color="D40000">different subjects</font></strong>, and TOK samples. <strong><font color="D40000">Tip: Bookmark this site!</font></strong></p>  
   
 </div>
 
@@ -166,7 +166,7 @@ ul li {
   <h2>Introduction (myself)</h2>
   <ul style="line-height:1.4;">
     <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
-    <li>Score of <strong>43 points, maximum 3 bonus points: A in Extended Essay, and A in Theory Of Knowledge.</strong> [Click here for my IB certificate]</li><br>
+    <li>Score of <strong>43 points, maximum 3 bonus points:</strong><strong><font color="D40000">A in Extended Essay, and A in Theory Of Knowledge.</font></strong> [Click here for my IB certificate]</li><br>
   <li>Subject Combination: HL Chemistry (7), HL Economics (7), HL Mathematics (6)<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
 </ul>  
 </div>
