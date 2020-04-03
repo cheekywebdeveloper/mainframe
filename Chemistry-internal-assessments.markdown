@@ -101,7 +101,7 @@ img {
 }
 
 .auto {
-   height: 1300px;
+   height: 1100px;
 }
 </style>
 </head>
