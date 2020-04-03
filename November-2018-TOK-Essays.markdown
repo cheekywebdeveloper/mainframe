@@ -100,6 +100,10 @@ img {
    float:left;
 }
 
+.auto {
+   height: 440px;
+}
+
 </style>
 </head>
 <body>
@@ -154,7 +158,7 @@ img {
   <a href="Questions.html"><h4>Questions</h4></a>
 </div>
 
-<div style="padding-left:16px">
+<div class="auto">
   <h2>November 2018 Theory Of Knowledge Essays [10/10 marks]</h2> 
   <p>
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/november-2018-theory-of-knowledge-essay-question-1-sample-1.html" target="_blank">
