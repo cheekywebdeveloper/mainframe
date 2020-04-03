@@ -96,6 +96,10 @@ body {
    text-align: left;
 }
 
+.auto {
+   height: 440px;
+}
+
 </style>
 </head>
 <body>
@@ -150,7 +154,7 @@ body {
   <a href="Questions.html"><h4>Questions</h4></a>
 </div>
 
-<div style="padding-left:16px">
+<div class="auto">
   <h2>Disclaimer</h2>
 <p>"<strong>Plagiarism</strong>: this is defined as the representation, <strong>intentionally or unwittingly</strong>, of the ideas, words or work of another person without proper, clear and explicit acknowledgment." (IBO Website)<br><br>
 
