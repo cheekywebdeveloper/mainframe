@@ -96,6 +96,10 @@ body {
    text-align: left;
 }
 
+.auto {
+   height: 440px;
+}
+
 </style>
 </head>
 <body>
@@ -150,7 +154,7 @@ body {
   <a href="Questions.html"><h4>Questions</h4></a>
 </div>
 
-<div style="padding-left:16px">
+<div class="auto">
   <h2>Questions</h2>
 <p>If you have any questions or requests, email us at <strong>MountEETOKIA@gmail.com</strong>. We will reply promptly. 
 </p>
