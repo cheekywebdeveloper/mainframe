@@ -100,6 +100,10 @@ img {
    float:left;
 }
 
+.auto {
+   height: 440px;
+}
+
 </style>
 </head>
 <body>
@@ -154,7 +158,7 @@ img {
   <a href="Questions.html"><h4>Questions</h4></a>
 </div>
 
-<div style="padding-left:16px">
+<div class="auto">
   <h2>Business Management Extended Essays [A-grade]</h2>
   <p>
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/Business-Management-extended-essays-amazon-growth-strategies.html" target="_blank">
