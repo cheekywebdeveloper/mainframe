@@ -169,10 +169,6 @@ img {
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> The Brachistochrone Curve Problem: “Human vs Cylon” rollercoaster in Singapore</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/hl-mathematics-internal-assessments-by-how-many-tickets-may-a-flight-be-overbooked.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> By how many tickets may a flight be overbooked?</a></p><br>
-
-<p>
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/hl-mathematics-internal-assessments-the-shortest-path-for-a-school-bus-route.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> The Shortest Path for a School Bus Route</a></p><br>
 
