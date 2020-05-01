@@ -165,8 +165,8 @@ img {
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (29/34) To What Extent Was Amazon.com, Inc.’s Growth Strategies To Constantly Widen Its Product Portfolio Effective At Growing The Business To Become The World’s Largest Internet Company?</a></p><br>
 
 <p>
-  <a style="text-decoration:none" href="mounteetokia2.siteleaf.net/business-management-extended-essay-should-ml-rating-studio-develop-a-wechat-mini-program-to-be-competitive.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> Should ML Rating Studio develop a WeChat mini program to remain competitive?</a></p><br>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/business-extended-essay-how-environment-focusing-on-political-technological-and-social-factors-affect-the-growth-of-korean-music-entertainment-companies.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> A study on how the external environment, with focus on the political, technological, and social factors, affect the growth and international expansion of Korean music entertainment companies.</a></p><br>
 
 </div>
 
