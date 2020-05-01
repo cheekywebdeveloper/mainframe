@@ -166,7 +166,7 @@ img {
 
 <p>
   <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/business-extended-essay-how-environment-focusing-on-political-technological-and-social-factors-affect-the-growth-of-korean-music-entertainment-companies.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> A study on how the external environment, with focus on the political, technological, and social factors, affect the growth and international expansion of Korean music entertainment companies.</a></p><br>
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> A study on how the external environment, with focus on the political, technological, and social factors, affect the growth and international expansion of Korean music entertainment companies. </a></p><br>
 
 </div>
 
