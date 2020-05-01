@@ -162,7 +162,11 @@ img {
   <h2>Business Management Internal Assessments [Grade 7, High-scoring]</h2>
   <p>
   <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/sl-business-management-internal-assessment-how-would-starbucks-decision-to-ban-plastic-straws-be-beneficial-to-the-company-when-considering-its-impact-on-various-stakeholders.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> How would Starbucks' decision to ban plastic straws be beneficial to the company, when considering its impact on various stakeholders?</a></p><br>
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (SL) How would Starbucks' decision to ban plastic straws be beneficial to the company, when considering its impact on various stakeholders?</a></p><br>
+
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/business-internal-assessment-should-ml-rating-studio-develop-a-wechat-mini-program-to-be-competitive.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (HL) Should ML Rating Studio develop a WeChat mini program to remain competitive?</a></p><br>
 
 </div>
 
