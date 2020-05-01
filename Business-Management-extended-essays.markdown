@@ -164,6 +164,10 @@ img {
   <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/Business-Management-extended-essays-amazon-growth-strategies.html" target="_blank">
   <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> (29/34) To What Extent Was Amazon.com, Inc.’s Growth Strategies To Constantly Widen Its Product Portfolio Effective At Growing The Business To Become The World’s Largest Internet Company?</a></p><br>
 
+<p>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/business-management-extended-essay-should-ml-rating-studio-develop-a-wechat-mini-program-to-remain-competitive.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> Should ML Rating Studio develop a WeChat mini program to remain competitive?</a></p><br>
+
 </div>
 
 <div class="footer">
