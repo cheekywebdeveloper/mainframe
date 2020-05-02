@@ -115,6 +115,7 @@ img {
     </button>
     <div class="dropdown-content">
       <a href="Economics-extended-essays.html">Economics EEs</a>
+      <a href="http://mounteetokia2.siteleaf.net/geography-internal-assessments.html">Geography IAs</a>
       <a href="Chemistry-extended-essays.html">Chemistry EEs</a>
       <a href="Business-Management-extended-essays.html">Business Management EEs</a>
       <a href="english-extended-essays.html">English EEs</a>
