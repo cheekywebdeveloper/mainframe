@@ -167,15 +167,6 @@ ul li {
   
 </div>
 
-<div class="intro">
-  <h2>Introduction (myself)</h2>
-  <ul style="line-height:1.2;">
-    <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
-    <li>Score of <strong>43 points, maximum 3 bonus points:</strong> <strong><font color="D40000"> A in Extended Essay, and A in Theory Of Knowledge.</font></strong></li><br>
-  <li>HL Chemistry (7), HL Economics (7), HL Mathematics (6), SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
-</ul>  
-</div>
-
 <div class="footer">
   <hr style="width:60%">
   <p><strong>MountEETOKIA</strong>: Best IB Extended Essays, Internal Assessments, TOK Essays, TOK Presentations<br>MountEETOKIA@gmail.com</p>
